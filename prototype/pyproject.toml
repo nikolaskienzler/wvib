@@ -40,6 +40,7 @@ dependencies = [
     "streamlit-extras",     # Additional widgets
     "streamlit-option-menu", # Navigation bars
     "graphviz",             # Process and flow diagrams
+    "requests",             # HTTP requests for API calls
 ]
 
 [tool.ruff]
